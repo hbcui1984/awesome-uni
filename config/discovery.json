@@ -1,0 +1,39 @@
+{
+  "discovery": {
+    "github": {
+      "searchQueries": [
+        "uni-app stars:>50",
+        "uniapp stars:>30", 
+        "uni-app-x stars:>10",
+        "dcloudio/uni-app"
+      ],
+      "minStars": 10,
+      "maxResults": 50
+    },
+    "articles": {
+      "sources": [
+        "juejin.cn",
+        "blog.csdn.net",
+        "segmentfault.com",
+        "cnblogs.com"
+      ],
+      "keywords": [
+        "uni-app",
+        "uniapp",
+        "uni-app x",
+        "uni-app开发",
+        "uni-app教程"
+      ]
+    },
+    "schedule": {
+      "enabled": true,
+      "cron": "0 10 * * 1",
+      "timezone": "UTC"
+    },
+    "output": {
+      "updateReadme": true,
+      "createPR": true,
+      "branchPrefix": "auto-discovery/"
+    }
+  }
+}

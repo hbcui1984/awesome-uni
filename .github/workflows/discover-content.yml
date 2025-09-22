@@ -1,0 +1,56 @@
+name: Discover Uni-App Content
+
+on:
+  schedule:
+    # Run every week on Monday at 10:00 AM UTC
+    - cron: '0 10 * * 1'
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  discover-and-submit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+    
+    - name: Install dependencies
+      run: |
+        npm install axios cheerio
+    
+    - name: Run discovery script
+      run: |
+        node scripts/discover-content.js
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v5
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: 'Auto-discover: Add new uni-app content'
+        title: '🤖 自动发现: 新增优秀uni-app项目和文章'
+        body: |
+          ## 自动发现的uni-app内容
+          
+          本PR是通过自动化脚本发现的优秀uni-app项目、文章和案例。
+          
+          ### 发现内容包括:
+          - 优秀的开源uni-app项目
+          - 相关技术文章和教程
+          - 实用案例和示例
+          
+          请审核后决定是否合并到主分支。
+          
+          ---
+          *此PR由自动化工具生成*
+        branch: auto-discovery/uni-app-content
+        delete-branch: true

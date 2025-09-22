@@ -1,0 +1,26 @@
+{
+  "name": "awesom-uni",
+  "version": "1.0.0",
+  "description": "uni-app & uni-app x 优秀项目、案例、文章等汇总",
+  "main": "scripts/discover-content.js",
+  "scripts": {
+    "discover": "node scripts/discover-content.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "uni-app",
+    "uni-app-x",
+    "awesome",
+    "collection"
+  ],
+  "author": "hbcui1984",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hbcui1984/awesom-uni.git"
+  }
+}
