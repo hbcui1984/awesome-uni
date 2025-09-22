@@ -25,11 +25,17 @@
 ### 什么是uni-ai x？
 
   uni-ai x是一个开源、免费、全平台支持的原生 AI 聊天套件，基于DCloud 的新一代跨平台原生框架uni-app x开发，故Android、iOS、鸿蒙、Web、微信小程序全支持，一套代码、多端运行。
+  
+  <img width="1269" height="863" alt="uni-ai-1" src="https://github.com/user-attachments/assets/f8913d2f-d2b1-484e-8856-c8c8c8ee78eb" />
 
 uni-ai在Web平台支持响应式布局：
 
+<img width="1267" height="977" alt="uni-ai-2" src="https://github.com/user-attachments/assets/bb4d96ba-5716-4151-b4ce-602b24ee851d" />
  
 在下载运行源码前，您可以安装apk到手机上，亲身体验下它的效果（demo不能连接计费模型）
+
+<img width="538" height="588" alt="uni-ai-3" src="https://github.com/user-attachments/assets/9ca3c76d-5c0d-48e0-9fe7-71e977c59ccd" />
+
 
 uni-ai x成功解决上述痛点：
 
@@ -140,6 +146,8 @@ AI：其它问题，多轮问答
 开源地址：[https://github.com/dcloudio/uni-ai-x](https://github.com/dcloudio/uni-ai-x)
 
 技术交流群：更多问题欢迎加入uni-ai官方交流群。此群非微信群，而是DCloud的uni-im群。
+
+<img width="338" height="330" alt="uni-ai-5" src="https://github.com/user-attachments/assets/d936b55f-b0d6-4950-8ad7-796e311a785b" />
 
 手机端请使用 DCloud App扫码，或点击链接：uni-im 交流群
 
