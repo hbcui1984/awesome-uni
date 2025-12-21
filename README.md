@@ -5,6 +5,7 @@ uni-app &amp; uni-app x 优秀项目、案例、文章等汇总
 
 1. [uni-starter](https://github.com/dcloudio/uni-starter)：云端一体应用快速开发基本项目模版
 2. [uni-admin](https://github.com/dcloudio/uni-admin):基于 uni-app & uniCloud 的 admin 管理项后台目模板
+3. [uni-task](https://github.com/hbcui1984/uni-task):基于uni-app & uniCloud 的任务管理系统，兼容 PC 宽屏、手机端（App和小程序）
 
 ## 插件/SDK
 
