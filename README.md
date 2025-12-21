@@ -7,6 +7,6 @@ uni-app &amp; uni-app x 优秀项目、案例、文章等汇总
 
 ## 文章
 
-1. [uni-app，你的最佳vibe coding搭子](docs/uni-app，你的最佳vibe coding搭子.md)
+1. [uni-app，你的最佳vibe coding搭子](docs/uni-app-vibe-coding.md)
 2. [uni-ai：让你的App快速接入AI](docs/uni-ai：让你的App快速接入AI.md)
 
