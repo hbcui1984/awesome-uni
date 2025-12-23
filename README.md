@@ -9,7 +9,8 @@ uni-app &amp; uni-app x 优秀项目、案例、文章等汇总
 
 ## 插件/SDK
 
-[uni-ai x](https://github.com/dcloudio/uni-ai-x):一个开源的、全平台的、原生的、云端一体的ai聊天套件。
+1. [uni-ai x](https://github.com/dcloudio/uni-ai-x):一个开源的、全平台的、原生的、云端一体的ai聊天套件。
+2. [uni-pay](https://github.com/dcloudio/uni-pay)：全场景统一支付解决方案，一套代码极简接入微信、支付宝等多端支付。
 
 ## 文章
 
