@@ -16,6 +16,7 @@ uni-app &amp; uni-app x 优秀项目、案例、文章等汇总
 
 ## 文章
 
-1. [uni-app，你的最佳vibe coding搭子](docs/uni-app-vibe-coding.md)
-2. [uni-ai：让你的App快速接入AI](docs/uni-ai：让你的App快速接入AI.md)
+1. [uni-app x 蒸汽模式 性能测试基准报告 Benchmark](https://mp.weixin.qq.com/s/-XVEF4L6gwanw_nzE33buA) - uni-app团队，2026.02.12
+2. [uni-app，你的最佳vibe coding搭子](docs/uni-app-vibe-coding.md)
+3. [uni-ai：让你的App快速接入AI](docs/uni-ai：让你的App快速接入AI.md)
 
