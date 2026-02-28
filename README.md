@@ -7,6 +7,8 @@
 2. [uni-admin](https://github.com/dcloudio/uni-admin):基于 uni-app & uniCloud 的 admin 管理项后台目模板
 3. [uni-task](https://github.com/hbcui1984/uni-task):基于uni-app & uniCloud 的任务管理系统，兼容 PC 宽屏、手机端（App和小程序）
 4. [nxdc-milktea](https://github.com/hbcui1984/nxdc-milktea):仿奈雪の茶前端项目模板，基于uni-app Vue3开发
+5. [AlumNet](https://github.com/hbcui1984/AlumNet)：基于uni-app & uniCloud 的通用校友会小程序
+6. [AlumNet-admin](https://github.com/hbcui1984/AlumNet-admin)：基于uni-app & uniCloud 的通用校友小程序管理端，基于`uni-admin`扩展
 
 ## 插件/SDK
 
