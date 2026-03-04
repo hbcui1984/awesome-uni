@@ -3,8 +3,8 @@
 
 ## 官网
 
-1.`uni-app`官网：[https://uniapp.dcloud.net.cn/](https://uniapp.dcloud.net.cn/)
-2.`uni-app x`官网：[https://doc.dcloud.net.cn/uni-app-x/]([https://uniapp.dcloud.net.cn/](https://doc.dcloud.net.cn/uni-app-x/))
+1. `uni-app`官网：[https://uniapp.dcloud.net.cn/](https://uniapp.dcloud.net.cn/)
+2. `uni-app x`官网：[https://doc.dcloud.net.cn/uni-app-x/]([https://uniapp.dcloud.net.cn/](https://doc.dcloud.net.cn/uni-app-x/))
 
 ## 模板
 
