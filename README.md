@@ -7,7 +7,8 @@
 2. `uni-app x`官网：[https://doc.dcloud.net.cn/uni-app-x/](https://doc.dcloud.net.cn/uni-app-x/)
 
 ## AI Coding
-1.[uni-agent，你的数字员工来了](docs/uni-agent.md)
+1. [AI 驱动的跨端进化：利用 uni-agent 快速构建高性能鸿蒙应用 | HDC2026 演讲实录](https://zhuanlan.zhihu.com/p/2050267899365955038),2026-06-16发布；
+2. [uni-agent，你的数字员工来了](docs/uni-agent.md)
 
 ## 模板
 
